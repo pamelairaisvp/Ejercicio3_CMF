@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="marginCajon">5dp</dimen>
+    <dimen name="size10dp">10dp</dimen>
+    <dimen name="size15dp">15dp</dimen>
+    <dimen name="size20dp">20dp</dimen>
+    <dimen name="size50dp">50dp</dimen>
+    <dimen name="size80dp">80dp</dimen>
+    <dimen name="size150dp">150dp</dimen>
+    <dimen name="size30dp">30dp</dimen>
+</resources>

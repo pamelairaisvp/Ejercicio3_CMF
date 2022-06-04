@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+    <string name="splash_autor">Elaborado por Pamela Villafañe </string>
+    <string name="version">v 1.0</string>
+
+    <string name="De">De:</string>
+    <string name="Peso">$</string>
+
+    <string name="textBold">bold</string>
+    <string name="textItalic">italic</string>
+
+    <string name="leyenda">TIENDA ELEKTRONIC</string>
+
+</resources>
